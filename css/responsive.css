@@ -1,0 +1,112 @@
+@media(max-width:767.98px){
+    .menu_bg h1 {
+        color: goldenrod;
+        font-size: 22px;
+        font-weight: 800;
+        text-transform: uppercase;
+    }
+    .menu_bg i{
+        color: #fff;
+    }
+    #banner .slick-dots li button {
+        height: 10px;
+        width: 10px;
+        background-color: #fff;
+        border-radius: 50%;
+        color: transparent;
+        border: none;
+        margin-top: 3px;
+        margin-left: 3px;
+        opacity: 0;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(0,0,0,.55);
+        border-color: #fff;
+    }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 transparent;
+    }
+    .menu_bg{
+        background-color: blueviolet;
+    }
+    .menu_bg ul{
+       text-align: center;
+    }
+    .about_head p {
+        color: #fff;
+        font-size: 15px;
+        font-weight: 400;
+        font-family: 'Roboto Slab', serif;
+    }
+    .my_ser h2 {
+        color: goldenrod;
+        font-size: 30px;
+        font-weight: 800;
+        font-family: 'Roboto Slab', serif;
+    }
+    .my_ser i {
+        position: absolute;
+        font-size: 32px;
+        top: 11%;
+        left: -12%;
+        color: gold;
+    }
+    .mjj i {
+        position: absolute;
+        position: absolute;
+        font-size: 31px;
+        top: 11%;
+        left: -12%;
+        color: gold;
+    }
+    .mjj h2 {
+        color: goldenrod;
+        font-size: 30px;
+        font-weight: 800;
+        font-family: 'Roboto Slab', serif;
+    }
+    .mcc i {
+        position: absolute;
+        font-size: 32px;
+        top: 18%;
+        left: -12%;
+        color: gold;
+    }
+    .mcc h2 {
+        color: goldenrod;
+        font-size: 38px;
+        font-weight: 800;
+        font-family: 'Roboto Slab', serif;
+    }
+    .mbb i {
+        position: absolute;
+        position: absolute;
+        font-size: 31px;
+        top: 11%;
+        left: -15%;
+        color: gold;
+    }
+    .mbb h2 {
+        color: goldenrod;
+        font-size: 31px;
+        font-weight: 800;
+        font-family: 'Roboto Slab', serif;
+    }
+    .con i {
+        position: absolute;
+        top: 3px;
+        left: 43%;
+    }
+    .footer_text h6 {
+        color: #fff;
+        font-size: 14px;
+    }
+    .footer_icon i {
+        font-size: 20px;
+        padding: 0 5px;
+    }
+   
+
+}
